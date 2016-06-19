@@ -1,1 +1,7 @@
-This will hold my homepage.
+
+<!doctype html>
+
+<html>
+  This will hold my home page.
+</html>
+
